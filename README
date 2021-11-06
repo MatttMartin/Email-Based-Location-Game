@@ -1,0 +1,9 @@
+BEFORE USE:
+change the variable "user" to an email of your own that you don't mind being filled with emails.
+
+To use this game:
+run rando.py, then from the email you put in current_email.txt, send just the word "help" to the email you set in the previous step.
+This will give you instructions on how to use it.
+
+Once you receive coordinates:
+use a gps app such as google maps to go to the coordinates given and see what you find!
